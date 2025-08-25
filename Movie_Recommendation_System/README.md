@@ -33,3 +33,6 @@ A content-based movie recommendation system built with Streamlit that suggests s
 
 ### Usage
 - streamlit run app.py
+
+### Dataset used
+- "https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata"
