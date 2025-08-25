@@ -35,4 +35,4 @@ A content-based movie recommendation system built with Streamlit that suggests s
 - streamlit run app.py
 
 ### Dataset used
-- "https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata"
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
